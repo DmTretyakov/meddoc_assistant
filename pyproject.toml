@@ -1,0 +1,30 @@
+[project]
+name = "medical-document-assistant"
+version = "0.1.0"
+description = "Local medical document assistant with LangGraph and MCP"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "fastapi>=0.115,<1",
+  "uvicorn>=0.34,<1",
+  "python-multipart>=0.0.20,<1",
+  "httpx>=0.28,<1",
+  "pydantic-settings>=2.8,<3",
+  "pymupdf>=1.26,<2",
+  "tiktoken>=0.9,<1",
+  "langgraph>=1,<2",
+  "mcp>=1.20,<2",
+]
+
+[dependency-groups]
+frontend = ["streamlit>=1.45,<2", "httpx>=0.28,<1"]
+dev = ["ruff>=0.12,<1"]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

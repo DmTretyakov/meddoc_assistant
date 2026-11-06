@@ -1,0 +1,1567 @@
+[
+  {
+    "id": "MDA-CT-001",
+    "folder": "seed",
+    "file": "MDA-CT-001_cardio-alpha_phase3_cardivex.pdf",
+    "title": "CARDIO-ALPHA: Phase III Trial of Cardivex in Stage 1-2 Hypertension",
+    "meta": [
+      [
+        "Document type",
+        "Clinical trial summary"
+      ],
+      [
+        "Study identifier",
+        "CARDIO-ALPHA (NB-HTN-3101)"
+      ],
+      [
+        "Investigational product",
+        "Cardivex (fictional ACE inhibitor), 10 mg once daily"
+      ],
+      [
+        "Report date",
+        "2025-03-14"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "Cardivex is a fictional long-acting angiotensin-converting enzyme (ACE) inhibitor. CARDIO-ALPHA evaluated its antihypertensive efficacy and tolerability against placebo over 12 weeks."
+      ],
+      [
+        "Cohort and methods",
+        "A total of 842 adults (mean age 58.4 years, 46% female) with stage 1-2 essential hypertension were randomized 1:1 to Cardivex 10 mg (n=421) or placebo (n=421) at 37 fictional sites. The primary endpoint was the change in mean seated systolic blood pressure (SBP) from baseline to week 12."
+      ],
+      [
+        "Results",
+        "Mean SBP decreased by 14.2 mmHg with Cardivex versus 6.1 mmHg with placebo (difference -8.1 mmHg; 95% CI -9.6 to -6.6; p&lt;0.001). Diastolic blood pressure decreased by 8.3 mmHg versus 3.2 mmHg. Blood pressure control (&lt;140/90 mmHg) at week 12 was achieved in 61.5% versus 33.8% of patients."
+      ],
+      [
+        "Safety",
+        "The most common adverse event was dry cough (7.3% vs 1.9%). Hyperkalemia (serum potassium &gt;5.5 mmol/L) occurred in 1.8% vs 0.5%. Two cases of angioedema (0.5%) were reported with Cardivex and none with placebo. Discontinuation due to adverse events was 3.1% vs 1.4%."
+      ],
+      [
+        "Conclusion",
+        "Cardivex 10 mg produced a clinically meaningful SBP reduction with an adverse-event profile typical of the ACE inhibitor class."
+      ]
+    ],
+    "table": [
+      [
+        "Endpoint (week 12)",
+        "Cardivex (n=421)",
+        "Placebo (n=421)"
+      ],
+      [
+        "Change in SBP, mmHg",
+        "-14.2",
+        "-6.1"
+      ],
+      [
+        "Change in DBP, mmHg",
+        "-8.3",
+        "-3.2"
+      ],
+      [
+        "BP control <140/90",
+        "61.5%",
+        "33.8%"
+      ],
+      [
+        "Dry cough",
+        "7.3%",
+        "1.9%"
+      ],
+      [
+        "Hyperkalemia",
+        "1.8%",
+        "0.5%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-DS-002",
+    "folder": "seed",
+    "file": "MDA-DS-002_cardivex_postmarketing_safety.pdf",
+    "title": "Cardivex Post-Marketing Safety Surveillance Report, Year 1",
+    "meta": [
+      [
+        "Document type",
+        "Drug safety report"
+      ],
+      [
+        "Report identifier",
+        "PSR-CDX-2025-01"
+      ],
+      [
+        "Product",
+        "Cardivex (fictional ACE inhibitor), 5 mg and 10 mg tablets"
+      ],
+      [
+        "Reporting period",
+        "2025-04-01 to 2026-03-31"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This periodic safety report summarizes spontaneous and registry-based adverse event reports for Cardivex during its first year of fictional marketing. Estimated exposure was 58,300 patient-years across 41,900 treated patients."
+      ],
+      [
+        "Key findings",
+        "Hyperkalemia was reported in 2.1% of registry patients, higher than the 1.8% observed in the CARDIO-ALPHA trial; most cases occurred in patients with eGFR below 45 mL/min/1.73 m2 or concomitant potassium-sparing diuretics. Angioedema incidence was 0.4% (176 cases), of which 12 required emergency airway management. Dry cough leading to discontinuation was reported in 2.6% of patients."
+      ],
+      [
+        "Signal assessment",
+        "No new safety signal was identified. The angioedema rate is consistent with the trial estimate. The hyperkalemia signal is considered expected and is linked to renal impairment."
+      ],
+      [
+        "Risk minimization",
+        "The label was updated to recommend serum potassium and creatinine monitoring 2 to 4 weeks after initiation in patients with chronic kidney disease stage 3 or higher."
+      ]
+    ],
+    "table": [
+      [
+        "Adverse event",
+        "Reports",
+        "Incidence"
+      ],
+      [
+        "Hyperkalemia",
+        "880",
+        "2.1%"
+      ],
+      [
+        "Cough leading to discontinuation",
+        "1,089",
+        "2.6%"
+      ],
+      [
+        "Angioedema",
+        "176",
+        "0.4%"
+      ],
+      [
+        "Acute kidney injury",
+        "67",
+        "0.16%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-003",
+    "folder": "seed",
+    "file": "MDA-CT-003_gluco-beta_phase2_glucoren.pdf",
+    "title": "GLUCO-BETA: Phase II Dose-Finding Trial of Glucoren in Type 2 Diabetes",
+    "meta": [
+      [
+        "Document type",
+        "Clinical trial summary"
+      ],
+      [
+        "Study identifier",
+        "GLUCO-BETA (NB-T2D-2204)"
+      ],
+      [
+        "Investigational product",
+        "Glucoren (fictional SGLT2 inhibitor), 5 mg and 15 mg"
+      ],
+      [
+        "Report date",
+        "2024-11-02"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "Glucoren is a fictional sodium-glucose cotransporter-2 (SGLT2) inhibitor intended as add-on therapy to metformin."
+      ],
+      [
+        "Cohort and methods",
+        "312 adults with type 2 diabetes inadequately controlled on metformin (baseline HbA1c 8.2%) were randomized to Glucoren 5 mg (n=104), Glucoren 15 mg (n=104) or placebo (n=104) for 24 weeks. The primary endpoint was the change in HbA1c at week 24."
+      ],
+      [
+        "Results",
+        "HbA1c decreased by 0.6% with Glucoren 5 mg, 0.9% with Glucoren 15 mg and 0.2% with placebo. Body weight decreased by 2.4 kg with the 15 mg dose. Fasting plasma glucose decreased by 1.7 mmol/L with 15 mg. The 15 mg dose was selected for Phase III development."
+      ],
+      [
+        "Safety",
+        "Genital mycotic infections occurred in 3.8% (15 mg), 2.9% (5 mg) and 1.0% (placebo). Urinary tract infections were reported in 4.8%, 4.8% and 3.8%. No diabetic ketoacidosis was observed."
+      ]
+    ],
+    "table": [
+      [
+        "Week 24",
+        "Glucoren 5 mg",
+        "Glucoren 15 mg",
+        "Placebo"
+      ],
+      [
+        "Change in HbA1c",
+        "-0.6%",
+        "-0.9%",
+        "-0.2%"
+      ],
+      [
+        "Change in body weight",
+        "-1.6 kg",
+        "-2.4 kg",
+        "-0.3 kg"
+      ],
+      [
+        "Genital mycotic infection",
+        "2.9%",
+        "3.8%",
+        "1.0%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-004",
+    "folder": "seed",
+    "file": "MDA-TO-004_renal_outcomes_registry_glucoren_cardivex.pdf",
+    "title": "Renal Outcomes with Glucoren plus Cardivex in Diabetic Hypertensive Patients",
+    "meta": [
+      [
+        "Document type",
+        "Treatment outcomes registry analysis"
+      ],
+      [
+        "Registry identifier",
+        "NB-REN-REG-07"
+      ],
+      [
+        "Treatments",
+        "Glucoren 15 mg + Cardivex 10 mg vs Cardivex 10 mg alone"
+      ],
+      [
+        "Report date",
+        "2026-01-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Objective",
+        "To compare kidney function trajectories in patients with type 2 diabetes and hypertension treated with Cardivex plus Glucoren versus Cardivex alone, using a fictional multicenter observational registry."
+      ],
+      [
+        "Cohort",
+        "1,204 patients were followed for 24 months: 598 on combination therapy and 606 on Cardivex monotherapy. Mean baseline eGFR was 68 mL/min/1.73 m2 and median urine albumin-to-creatinine ratio (UACR) was 54 mg/g."
+      ],
+      [
+        "Outcomes",
+        "Mean annual eGFR decline was 1.9 mL/min/1.73 m2 with the combination versus 3.4 mL/min/1.73 m2 with Cardivex alone. UACR fell by 31% versus 12%. The composite renal endpoint (40% eGFR decline, dialysis or renal death) occurred in 4.2% versus 7.9% of patients (adjusted hazard ratio 0.54; 95% CI 0.34 to 0.86)."
+      ],
+      [
+        "Safety",
+        "Hyperkalemia was less frequent with the combination (1.5% vs 2.6%). Volume depletion events were more frequent (2.2% vs 0.8%)."
+      ],
+      [
+        "Limitations",
+        "Observational design; residual confounding cannot be excluded."
+      ]
+    ],
+    "table": [
+      [
+        "24-month outcome",
+        "Glucoren + Cardivex",
+        "Cardivex alone"
+      ],
+      [
+        "Annual eGFR decline",
+        "1.9",
+        "3.4"
+      ],
+      [
+        "UACR change",
+        "-31%",
+        "-12%"
+      ],
+      [
+        "Composite renal endpoint",
+        "4.2%",
+        "7.9%"
+      ],
+      [
+        "Hyperkalemia",
+        "1.5%",
+        "2.6%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-AE-005",
+    "folder": "seed",
+    "file": "MDA-AE-005_neurolix_adverse_event_review.pdf",
+    "title": "Neurolix Adverse Event Review: Pooled Analysis of Migraine Prevention Studies",
+    "meta": [
+      [
+        "Document type",
+        "Adverse event review"
+      ],
+      [
+        "Analysis identifier",
+        "AER-NLX-POOL-02"
+      ],
+      [
+        "Product",
+        "Neurolix (fictional CGRP receptor antagonist), 60 mg oral daily"
+      ],
+      [
+        "Report date",
+        "2025-08-09"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "Pooled safety data from three fictional 12-week migraine prevention studies (NLX-201, NLX-301, NLX-302) including 560 Neurolix-treated and 548 placebo-treated adults with episodic migraine."
+      ],
+      [
+        "Most common adverse events",
+        "Nausea was the most frequent adverse event (11.0% vs 4.7% placebo), followed by dizziness (6.2% vs 3.1%), constipation (5.4% vs 1.8%) and fatigue (4.1% vs 3.3%). Most events were mild and resolved within two weeks."
+      ],
+      [
+        "Serious adverse events",
+        "Serious adverse events occurred in 1.3% of Neurolix patients and 1.1% of placebo patients. Discontinuation due to adverse events was 4.6% vs 2.0%. ALT elevation of grade 3 or higher was observed in 0.3% of Neurolix patients."
+      ],
+      [
+        "Conclusion",
+        "Neurolix was generally well tolerated; gastrointestinal events were the main tolerability concern."
+      ]
+    ],
+    "table": [
+      [
+        "Adverse event",
+        "Neurolix (n=560)",
+        "Placebo (n=548)"
+      ],
+      [
+        "Nausea",
+        "11.0%",
+        "4.7%"
+      ],
+      [
+        "Dizziness",
+        "6.2%",
+        "3.1%"
+      ],
+      [
+        "Constipation",
+        "5.4%",
+        "1.8%"
+      ],
+      [
+        "Discontinuation due to AE",
+        "4.6%",
+        "2.0%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-LAB-006",
+    "folder": "seed",
+    "file": "MDA-LAB-006_cardio-alpha_renal_laboratory_substudy.pdf",
+    "title": "CARDIO-ALPHA Renal Laboratory Substudy: Potassium and Creatinine",
+    "meta": [
+      [
+        "Document type",
+        "Laboratory report"
+      ],
+      [
+        "Report identifier",
+        "LAB-HTN-3101-R"
+      ],
+      [
+        "Parent study",
+        "CARDIO-ALPHA (NB-HTN-3101)"
+      ],
+      [
+        "Central laboratory",
+        "Northbridge Central Lab (fictional)"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "To characterize serum potassium and creatinine changes in a laboratory substudy of 214 CARDIO-ALPHA participants (108 Cardivex, 106 placebo)."
+      ],
+      [
+        "Methods",
+        "Samples were collected at baseline, week 2, week 6 and week 12. Potassium was measured by indirect ion-selective electrode and creatinine by enzymatic assay; eGFR was calculated with the CKD-EPI 2021 equation."
+      ],
+      [
+        "Results",
+        "Mean serum potassium increased by 0.21 mmol/L with Cardivex versus 0.03 mmol/L with placebo at week 12. Mean serum creatinine increased by 6.2 umol/L (about 7%) at week 2 and stabilized thereafter. Three Cardivex patients (2.8%) had potassium above 5.5 mmol/L; all had baseline eGFR below 60 mL/min/1.73 m2."
+      ],
+      [
+        "Interpretation",
+        "The early creatinine rise is consistent with the expected hemodynamic effect of ACE inhibition and was not progressive."
+      ]
+    ],
+    "table": [
+      [
+        "Parameter (week 12)",
+        "Cardivex (n=108)",
+        "Placebo (n=106)",
+        "Reference range"
+      ],
+      [
+        "Potassium change, mmol/L",
+        "+0.21",
+        "+0.03",
+        "3.5-5.1"
+      ],
+      [
+        "Creatinine change, umol/L",
+        "+6.2",
+        "+0.8",
+        "62-106 (M)"
+      ],
+      [
+        "eGFR change, mL/min/1.73 m2",
+        "-3.9",
+        "-0.6",
+        ">=90"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-007",
+    "folder": "seed",
+    "file": "MDA-CT-007_resp-gamma_phase3_pulmavir.pdf",
+    "title": "RESP-GAMMA: Phase III Trial of Inhaled Pulmavir for Adult RSV Infection",
+    "meta": [
+      [
+        "Document type",
+        "Clinical trial summary"
+      ],
+      [
+        "Study identifier",
+        "RESP-GAMMA (NB-RSV-3302)"
+      ],
+      [
+        "Investigational product",
+        "Pulmavir (fictional inhaled antiviral), 20 mg twice daily for 5 days"
+      ],
+      [
+        "Report date",
+        "2025-12-05"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "Respiratory syncytial virus (RSV) causes significant morbidity in older adults. Pulmavir is a fictional inhaled fusion inhibitor."
+      ],
+      [
+        "Cohort and methods",
+        "1,020 adults aged 50 years or older with laboratory-confirmed RSV infection and symptom onset within 72 hours were randomized 1:1 to Pulmavir or placebo. The primary endpoint was time to sustained symptom resolution."
+      ],
+      [
+        "Results",
+        "Median time to symptom resolution was 5.1 days with Pulmavir versus 7.4 days with placebo (hazard ratio 1.38; p&lt;0.001). Viral load at day 3 was reduced by 1.2 log10 copies/mL more than placebo. Hospitalization within 28 days occurred in 2.4% vs 4.9% of patients."
+      ],
+      [
+        "Safety",
+        "Bronchospasm occurred in 1.6% vs 0.6%, and dysgeusia (taste disturbance) in 3.5% vs 0.4%. No deaths were attributed to study drug."
+      ]
+    ],
+    "table": [
+      [
+        "Endpoint",
+        "Pulmavir (n=510)",
+        "Placebo (n=510)"
+      ],
+      [
+        "Median time to resolution",
+        "5.1 days",
+        "7.4 days"
+      ],
+      [
+        "28-day hospitalization",
+        "2.4%",
+        "4.9%"
+      ],
+      [
+        "Bronchospasm",
+        "1.6%",
+        "0.6%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-008",
+    "folder": "seed",
+    "file": "MDA-CT-008_onco-delta_phase2_onkatinib.pdf",
+    "title": "ONCO-DELTA: Phase II Trial of Onkatinib in EGFR-Mutant NSCLC",
+    "meta": [
+      [
+        "Document type",
+        "Clinical trial summary"
+      ],
+      [
+        "Study identifier",
+        "ONCO-DELTA (NB-ONC-2107)"
+      ],
+      [
+        "Investigational product",
+        "Onkatinib (fictional tyrosine kinase inhibitor), 150 mg daily"
+      ],
+      [
+        "Report date",
+        "2025-06-18"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "Onkatinib is a fictional third-generation EGFR tyrosine kinase inhibitor for previously treated non-small cell lung cancer (NSCLC)."
+      ],
+      [
+        "Cohort and methods",
+        "Single-arm study of 128 patients with EGFR-mutant advanced NSCLC who progressed after one prior TKI. Median age was 63 years; 22% had stable brain metastases. The primary endpoint was objective response rate (ORR) by RECIST 1.1."
+      ],
+      [
+        "Results",
+        "ORR was 38% (49/128; 95% CI 30 to 47). Median duration of response was 8.3 months. Median progression-free survival (PFS) was 9.6 months and the disease control rate was 81%. Intracranial ORR among patients with brain metastases was 32%."
+      ],
+      [
+        "Safety",
+        "Grade 3 or higher treatment-related adverse events occurred in 27% of patients, including rash (8%), diarrhea (6%) and ALT elevation (4.2%). Dose reductions were needed in 19% of patients."
+      ]
+    ],
+    "table": [
+      [
+        "Efficacy endpoint",
+        "Result (n=128)"
+      ],
+      [
+        "Objective response rate",
+        "38%"
+      ],
+      [
+        "Median progression-free survival",
+        "9.6 months"
+      ],
+      [
+        "Median duration of response",
+        "8.3 months"
+      ],
+      [
+        "Disease control rate",
+        "81%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-AE-009",
+    "folder": "seed",
+    "file": "MDA-AE-009_hepatic_safety_signal_review.pdf",
+    "title": "Cross-Product Hepatic Safety Signal Review: Onkatinib and Neurolix",
+    "meta": [
+      [
+        "Document type",
+        "Adverse event / signal review"
+      ],
+      [
+        "Review identifier",
+        "SIG-HEP-2025-04"
+      ],
+      [
+        "Products",
+        "Onkatinib (fictional TKI); Neurolix (fictional CGRP antagonist)"
+      ],
+      [
+        "Report date",
+        "2025-10-30"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "To review drug-induced liver injury (DILI) signals for two fictional products in the Northbridge portfolio using trial data and spontaneous reports."
+      ],
+      [
+        "Liver enzyme findings",
+        "Grade 3 or higher ALT elevation occurred in 4.2% of Onkatinib-treated patients in ONCO-DELTA versus 0.3% of Neurolix-treated patients in the pooled migraine studies. Median time to onset was 6 weeks for Onkatinib and could not be estimated for Neurolix due to few events."
+      ],
+      [
+        "Hy's law cases",
+        "One potential Hy's law case (ALT above 3x ULN with bilirubin above 2x ULN) was identified with Onkatinib; none were identified with Neurolix."
+      ],
+      [
+        "Recommendation",
+        "Liver function tests every 2 weeks for the first 3 months of Onkatinib therapy are recommended. No additional hepatic monitoring is recommended for Neurolix."
+      ]
+    ],
+    "table": [
+      [
+        "Hepatic parameter",
+        "Onkatinib",
+        "Neurolix"
+      ],
+      [
+        "Grade >=3 ALT elevation",
+        "4.2%",
+        "0.3%"
+      ],
+      [
+        "Potential Hy's law cases",
+        "1",
+        "0"
+      ],
+      [
+        "Monitoring recommendation",
+        "LFTs every 2 weeks x 3 months",
+        "Routine only"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-010",
+    "folder": "seed",
+    "file": "MDA-TO-010_neurolix_real_world_outcomes.pdf",
+    "title": "Real-World Outcomes of Neurolix versus Triptan-Only Care in Episodic Migraine",
+    "meta": [
+      [
+        "Document type",
+        "Treatment outcomes study"
+      ],
+      [
+        "Study identifier",
+        "NB-MIG-RWE-03"
+      ],
+      [
+        "Treatments",
+        "Neurolix 60 mg daily prevention vs acute triptan therapy only"
+      ],
+      [
+        "Report date",
+        "2026-02-11"
+      ]
+    ],
+    "sections": [
+      [
+        "Design",
+        "Retrospective fictional cohort study using electronic health records from 14 headache clinics. 1,860 adults with 4 to 14 monthly migraine days were included: 742 started Neurolix and 1,118 continued triptan-only care."
+      ],
+      [
+        "Outcomes",
+        "At 6 months, monthly migraine days decreased by 4.8 with Neurolix versus 3.1 with triptan-only care. A 50% or greater responder rate was achieved by 47% versus 29% of patients. Acute medication use decreased by 3.9 versus 1.2 days per month."
+      ],
+      [
+        "Persistence and tolerability",
+        "Treatment persistence at 6 months was 72%. The most common reason for stopping Neurolix was nausea (5.1% of patients), consistent with the pooled adverse event review."
+      ],
+      [
+        "Conclusion",
+        "Neurolix was associated with better migraine outcomes than triptan-only care in routine practice."
+      ]
+    ],
+    "table": [
+      [
+        "6-month outcome",
+        "Neurolix (n=742)",
+        "Triptan only (n=1,118)"
+      ],
+      [
+        "Reduction in monthly migraine days",
+        "4.8",
+        "3.1"
+      ],
+      [
+        ">=50% responder rate",
+        "47%",
+        "29%"
+      ],
+      [
+        "Reduction in acute medication days",
+        "3.9",
+        "1.2"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-011",
+    "folder": "manual_upload",
+    "file": "MDA-CT-011_gluco-beta-ext_52week_glucoren.pdf",
+    "title": "GLUCO-BETA-EXT: 52-Week Phase III Extension of Glucoren 15 mg",
+    "meta": [
+      [
+        "Document type",
+        "Clinical trial summary"
+      ],
+      [
+        "Study identifier",
+        "GLUCO-BETA-EXT (NB-T2D-3205)"
+      ],
+      [
+        "Investigational product",
+        "Glucoren (fictional SGLT2 inhibitor), 15 mg once daily"
+      ],
+      [
+        "Report date",
+        "2026-05-27"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "Following the GLUCO-BETA Phase II results, this fictional Phase III study assessed long-term efficacy and safety of Glucoren 15 mg added to metformin."
+      ],
+      [
+        "Cohort and methods",
+        "640 adults with type 2 diabetes (baseline HbA1c 8.1%) were randomized 1:1 to Glucoren 15 mg or placebo for 52 weeks."
+      ],
+      [
+        "Results",
+        "HbA1c decreased by 1.1% with Glucoren versus 0.3% with placebo at week 52. Body weight decreased by 3.1 kg versus 0.5 kg. Systolic blood pressure decreased by 4.6 mmHg versus 1.2 mmHg."
+      ],
+      [
+        "Safety",
+        "Genital mycotic infections occurred in 4.5% versus 1.3%. Diabetic ketoacidosis was reported in one Glucoren patient (0.3%). Discontinuation due to adverse events was 3.4% versus 2.5%."
+      ]
+    ],
+    "table": [
+      [
+        "Week 52",
+        "Glucoren 15 mg (n=320)",
+        "Placebo (n=320)"
+      ],
+      [
+        "Change in HbA1c",
+        "-1.1%",
+        "-0.3%"
+      ],
+      [
+        "Change in body weight",
+        "-3.1 kg",
+        "-0.5 kg"
+      ],
+      [
+        "Genital mycotic infection",
+        "4.5%",
+        "1.3%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-LAB-012",
+    "folder": "manual_upload",
+    "file": "MDA-LAB-012_onkatinib_therapeutic_drug_monitoring.pdf",
+    "title": "Onkatinib Therapeutic Drug Monitoring: Plasma Trough Concentrations",
+    "meta": [
+      [
+        "Document type",
+        "Laboratory report"
+      ],
+      [
+        "Report identifier",
+        "LAB-ONC-2107-PK"
+      ],
+      [
+        "Parent study",
+        "ONCO-DELTA (NB-ONC-2107)"
+      ],
+      [
+        "Assay",
+        "LC-MS/MS, lower limit of quantification 2 ng/mL"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "To describe steady-state plasma trough concentrations (Ctrough) of Onkatinib 150 mg and their relationship with toxicity in 96 ONCO-DELTA patients."
+      ],
+      [
+        "Results",
+        "Median Ctrough at day 15 was 212 ng/mL (interquartile range 158 to 279). Patients with Ctrough above 300 ng/mL had a higher incidence of grade 3 or higher rash (21% vs 5%) and ALT elevation (11% vs 2%). Ctrough was not associated with objective response."
+      ],
+      [
+        "Recommendation",
+        "A target trough range of 150 to 300 ng/mL is proposed. Dose reduction to 100 mg may be considered when Ctrough exceeds 300 ng/mL with grade 2 or higher toxicity."
+      ]
+    ],
+    "table": [
+      [
+        "Ctrough group (day 15)",
+        "Patients",
+        "Grade >=3 rash",
+        "Grade >=3 ALT elevation"
+      ],
+      [
+        "<=300 ng/mL",
+        "78",
+        "5%",
+        "2%"
+      ],
+      [
+        ">300 ng/mL",
+        "18",
+        "21%",
+        "11%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-013",
+    "folder": "seed",
+    "file": "MDA-CT-013_iron_orbit_nbx-101.pdf",
+    "title": "IRON-ORBIT: NBX-101 in Adults with Anemia",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic randomized trial summary"
+      ],
+      [
+        "Study identifier",
+        "IRON-ORBIT"
+      ],
+      [
+        "Investigational product",
+        "NBX-101 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-06-15"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "This fictional study evaluated NBX-101 for anemia. All participants, sites, outcomes and numbers are invented demonstration data. The report is intended for testing retrieval and citations, not clinical use."
+      ],
+      [
+        "Cohort and methods",
+        "240 adults aged 18 to 75 were randomized equally to NBX-101 or placebo. Treatment lasted 24 weeks. The primary endpoint was hemoglobin change from baseline, except response proportions which were measured at the endpoint visit. Outcome assessors were blinded."
+      ],
+      [
+        "Primary result",
+        "At week 24, hemoglobin change was +1.8 g/dL with NBX-101 and +0.7 g/dL with placebo. These values are the prespecified primary analysis of the randomized population. No pediatric results were collected."
+      ],
+      [
+        "Safety",
+        "Nausea occurred in 8.3% versus 4.2%; discontinuation due to adverse events was 2.5% versus 1.7%."
+      ],
+      [
+        "Interpretation and limits",
+        "The results describe this synthetic 24-week adult study only. Long-term effects, pregnancy outcomes, approved dosing and outcomes in children are not established by this document. No treatment or prescribing recommendation is made."
+      ]
+    ],
+    "table": [
+      [
+        "Outcome",
+        "NBX-101",
+        "Placebo"
+      ],
+      [
+        "Hemoglobin change",
+        "+1.8 g/dL",
+        "+0.7 g/dL"
+      ],
+      [
+        "Participants",
+        "120",
+        "120"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-019",
+    "folder": "manual_upload",
+    "file": "MDA-TO-019_iron_orbit_followup.pdf",
+    "title": "IRON-ORBIT Follow-up: NBX-101 at Week 48",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic open-label extension"
+      ],
+      [
+        "Parent study",
+        "IRON-ORBIT"
+      ],
+      [
+        "Investigational product",
+        "NBX-101 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-10-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This fictional extension enrolled 96 selected completers of the IRON-ORBIT study. All extension participants received NBX-101; there was no concurrent placebo arm. Data and participants are invented."
+      ],
+      [
+        "Follow-up result",
+        "At week 48, the reported hemoglobin result was +1.5 g/dL. Changes refer to the original baseline; response proportions refer to the follow-up visit. This result belongs to the selected extension cohort, not the original randomized population."
+      ],
+      [
+        "Safety follow-up",
+        "Four participants discontinued because of adverse events and two were lost to follow-up. No new safety category was identified in this small fictional cohort; that observation does not establish long-term safety."
+      ],
+      [
+        "Comparison limits",
+        "The parent trial and extension differ in follow-up duration and participant selection. The extension cannot support a new placebo-adjusted treatment difference. Use the separate IRON-ORBIT randomized report for the original comparator results."
+      ],
+      [
+        "Missing information",
+        "This report provides no pediatric dosing, approval status, pregnancy data or individualized treatment instructions. All findings are demonstration data, not clinical guidance."
+      ]
+    ],
+    "table": [
+      [
+        "Follow-up measure",
+        "Result"
+      ],
+      [
+        "Week",
+        "48"
+      ],
+      [
+        "Selected participants",
+        "96"
+      ],
+      [
+        "hemoglobin",
+        "+1.5 g/dL"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-014",
+    "folder": "seed",
+    "file": "MDA-CT-014_joint_lantern_nbx-202.pdf",
+    "title": "JOINT-LANTERN: NBX-202 in Adults with Knee Osteoarthritis",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic randomized trial summary"
+      ],
+      [
+        "Study identifier",
+        "JOINT-LANTERN"
+      ],
+      [
+        "Investigational product",
+        "NBX-202 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-06-15"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "This fictional study evaluated NBX-202 for knee osteoarthritis. All participants, sites, outcomes and numbers are invented demonstration data. The report is intended for testing retrieval and citations, not clinical use."
+      ],
+      [
+        "Cohort and methods",
+        "310 adults aged 18 to 75 were randomized equally to NBX-202 or placebo. Treatment lasted 16 weeks. The primary endpoint was womac pain score change from baseline, except response proportions which were measured at the endpoint visit. Outcome assessors were blinded."
+      ],
+      [
+        "Primary result",
+        "At week 16, womac pain score change was -18.4 points with NBX-202 and -10.1 points with placebo. These values are the prespecified primary analysis of the randomized population. No pediatric results were collected."
+      ],
+      [
+        "Safety",
+        "Dyspepsia occurred in 6.5% versus 3.2%; discontinuation due to adverse events was 3.2% versus 1.9%."
+      ],
+      [
+        "Interpretation and limits",
+        "The results describe this synthetic 16-week adult study only. Long-term effects, pregnancy outcomes, approved dosing and outcomes in children are not established by this document. No treatment or prescribing recommendation is made."
+      ]
+    ],
+    "table": [
+      [
+        "Outcome",
+        "NBX-202",
+        "Placebo"
+      ],
+      [
+        "WOMAC pain score change",
+        "-18.4 points",
+        "-10.1 points"
+      ],
+      [
+        "Participants",
+        "155",
+        "155"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-020",
+    "folder": "manual_upload",
+    "file": "MDA-TO-020_joint_lantern_followup.pdf",
+    "title": "JOINT-LANTERN Follow-up: NBX-202 at Week 40",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic open-label extension"
+      ],
+      [
+        "Parent study",
+        "JOINT-LANTERN"
+      ],
+      [
+        "Investigational product",
+        "NBX-202 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-10-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This fictional extension enrolled 124 selected completers of the JOINT-LANTERN study. All extension participants received NBX-202; there was no concurrent placebo arm. Data and participants are invented."
+      ],
+      [
+        "Follow-up result",
+        "At week 40, the reported WOMAC pain score result was -16.0 points. Changes refer to the original baseline; response proportions refer to the follow-up visit. This result belongs to the selected extension cohort, not the original randomized population."
+      ],
+      [
+        "Safety follow-up",
+        "Four participants discontinued because of adverse events and two were lost to follow-up. No new safety category was identified in this small fictional cohort; that observation does not establish long-term safety."
+      ],
+      [
+        "Comparison limits",
+        "The parent trial and extension differ in follow-up duration and participant selection. The extension cannot support a new placebo-adjusted treatment difference. Use the separate JOINT-LANTERN randomized report for the original comparator results."
+      ],
+      [
+        "Missing information",
+        "This report provides no pediatric dosing, approval status, pregnancy data or individualized treatment instructions. All findings are demonstration data, not clinical guidance."
+      ]
+    ],
+    "table": [
+      [
+        "Follow-up measure",
+        "Result"
+      ],
+      [
+        "Week",
+        "40"
+      ],
+      [
+        "Selected participants",
+        "124"
+      ],
+      [
+        "WOMAC pain score",
+        "-16.0 points"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-015",
+    "folder": "seed",
+    "file": "MDA-CT-015_skin_prism_nbx-303.pdf",
+    "title": "SKIN-PRISM: NBX-303 in Adults with Plaque Psoriasis",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic randomized trial summary"
+      ],
+      [
+        "Study identifier",
+        "SKIN-PRISM"
+      ],
+      [
+        "Investigational product",
+        "NBX-303 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-06-15"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "This fictional study evaluated NBX-303 for plaque psoriasis. All participants, sites, outcomes and numbers are invented demonstration data. The report is intended for testing retrieval and citations, not clinical use."
+      ],
+      [
+        "Cohort and methods",
+        "280 adults aged 18 to 75 were randomized equally to NBX-303 or placebo. Treatment lasted 12 weeks. The primary endpoint was pasi 75 response from baseline, except response proportions which were measured at the endpoint visit. Outcome assessors were blinded."
+      ],
+      [
+        "Primary result",
+        "At week 12, pasi 75 response was 64% with NBX-303 and 22% with placebo. These values are the prespecified primary analysis of the randomized population. No pediatric results were collected."
+      ],
+      [
+        "Safety",
+        "Injection-site reactions occurred in 9.3% versus 2.1%; discontinuation due to adverse events was 2.9% versus 1.4%."
+      ],
+      [
+        "Interpretation and limits",
+        "The results describe this synthetic 12-week adult study only. Long-term effects, pregnancy outcomes, approved dosing and outcomes in children are not established by this document. No treatment or prescribing recommendation is made."
+      ]
+    ],
+    "table": [
+      [
+        "Outcome",
+        "NBX-303",
+        "Placebo"
+      ],
+      [
+        "PASI 75 response",
+        "64%",
+        "22%"
+      ],
+      [
+        "Participants",
+        "140",
+        "140"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-021",
+    "folder": "manual_upload",
+    "file": "MDA-TO-021_skin_prism_followup.pdf",
+    "title": "SKIN-PRISM Follow-up: NBX-303 at Week 36",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic open-label extension"
+      ],
+      [
+        "Parent study",
+        "SKIN-PRISM"
+      ],
+      [
+        "Investigational product",
+        "NBX-303 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-10-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This fictional extension enrolled 108 selected completers of the SKIN-PRISM study. All extension participants received NBX-303; there was no concurrent placebo arm. Data and participants are invented."
+      ],
+      [
+        "Follow-up result",
+        "At week 36, the reported PASI 75 response result was 58%. Changes refer to the original baseline; response proportions refer to the follow-up visit. This result belongs to the selected extension cohort, not the original randomized population."
+      ],
+      [
+        "Safety follow-up",
+        "Four participants discontinued because of adverse events and two were lost to follow-up. No new safety category was identified in this small fictional cohort; that observation does not establish long-term safety."
+      ],
+      [
+        "Comparison limits",
+        "The parent trial and extension differ in follow-up duration and participant selection. The extension cannot support a new placebo-adjusted treatment difference. Use the separate SKIN-PRISM randomized report for the original comparator results."
+      ],
+      [
+        "Missing information",
+        "This report provides no pediatric dosing, approval status, pregnancy data or individualized treatment instructions. All findings are demonstration data, not clinical guidance."
+      ]
+    ],
+    "table": [
+      [
+        "Follow-up measure",
+        "Result"
+      ],
+      [
+        "Week",
+        "36"
+      ],
+      [
+        "Selected participants",
+        "108"
+      ],
+      [
+        "PASI 75 response",
+        "58%"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-016",
+    "folder": "seed",
+    "file": "MDA-CT-016_headway_migraine_nbx-404.pdf",
+    "title": "HEADWAY-MIGRAINE: NBX-404 in Adults with Episodic Migraine",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic randomized trial summary"
+      ],
+      [
+        "Study identifier",
+        "HEADWAY-MIGRAINE"
+      ],
+      [
+        "Investigational product",
+        "NBX-404 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-06-15"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "This fictional study evaluated NBX-404 for episodic migraine. All participants, sites, outcomes and numbers are invented demonstration data. The report is intended for testing retrieval and citations, not clinical use."
+      ],
+      [
+        "Cohort and methods",
+        "260 adults aged 18 to 75 were randomized equally to NBX-404 or placebo. Treatment lasted 12 weeks. The primary endpoint was monthly migraine-day change from baseline, except response proportions which were measured at the endpoint visit. Outcome assessors were blinded."
+      ],
+      [
+        "Primary result",
+        "At week 12, monthly migraine-day change was -3.6 days with NBX-404 and -1.4 days with placebo. These values are the prespecified primary analysis of the randomized population. No pediatric results were collected."
+      ],
+      [
+        "Safety",
+        "Fatigue occurred in 7.7% versus 3.8%; discontinuation due to adverse events was 2.3% versus 1.5%."
+      ],
+      [
+        "Interpretation and limits",
+        "The results describe this synthetic 12-week adult study only. Long-term effects, pregnancy outcomes, approved dosing and outcomes in children are not established by this document. No treatment or prescribing recommendation is made."
+      ]
+    ],
+    "table": [
+      [
+        "Outcome",
+        "NBX-404",
+        "Placebo"
+      ],
+      [
+        "Monthly migraine-day change",
+        "-3.6 days",
+        "-1.4 days"
+      ],
+      [
+        "Participants",
+        "130",
+        "130"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-022",
+    "folder": "manual_upload",
+    "file": "MDA-TO-022_headway_migraine_followup.pdf",
+    "title": "HEADWAY-MIGRAINE Follow-up: NBX-404 at Week 36",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic open-label extension"
+      ],
+      [
+        "Parent study",
+        "HEADWAY-MIGRAINE"
+      ],
+      [
+        "Investigational product",
+        "NBX-404 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-10-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This fictional extension enrolled 104 selected completers of the HEADWAY-MIGRAINE study. All extension participants received NBX-404; there was no concurrent placebo arm. Data and participants are invented."
+      ],
+      [
+        "Follow-up result",
+        "At week 36, the reported monthly migraine days result was -3.1 days. Changes refer to the original baseline; response proportions refer to the follow-up visit. This result belongs to the selected extension cohort, not the original randomized population."
+      ],
+      [
+        "Safety follow-up",
+        "Four participants discontinued because of adverse events and two were lost to follow-up. No new safety category was identified in this small fictional cohort; that observation does not establish long-term safety."
+      ],
+      [
+        "Comparison limits",
+        "The parent trial and extension differ in follow-up duration and participant selection. The extension cannot support a new placebo-adjusted treatment difference. Use the separate HEADWAY-MIGRAINE randomized report for the original comparator results."
+      ],
+      [
+        "Missing information",
+        "This report provides no pediatric dosing, approval status, pregnancy data or individualized treatment instructions. All findings are demonstration data, not clinical guidance."
+      ]
+    ],
+    "table": [
+      [
+        "Follow-up measure",
+        "Result"
+      ],
+      [
+        "Week",
+        "36"
+      ],
+      [
+        "Selected participants",
+        "104"
+      ],
+      [
+        "monthly migraine days",
+        "-3.1 days"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-017",
+    "folder": "seed",
+    "file": "MDA-CT-017_air_pollen_nbx-505.pdf",
+    "title": "AIR-POLLEN: NBX-505 in Adults with Seasonal Allergic Rhinitis",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic randomized trial summary"
+      ],
+      [
+        "Study identifier",
+        "AIR-POLLEN"
+      ],
+      [
+        "Investigational product",
+        "NBX-505 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-06-15"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "This fictional study evaluated NBX-505 for seasonal allergic rhinitis. All participants, sites, outcomes and numbers are invented demonstration data. The report is intended for testing retrieval and citations, not clinical use."
+      ],
+      [
+        "Cohort and methods",
+        "200 adults aged 18 to 75 were randomized equally to NBX-505 or placebo. Treatment lasted 6 weeks. The primary endpoint was total nasal symptom score change from baseline, except response proportions which were measured at the endpoint visit. Outcome assessors were blinded."
+      ],
+      [
+        "Primary result",
+        "At week 6, total nasal symptom score change was -4.8 points with NBX-505 and -2.3 points with placebo. These values are the prespecified primary analysis of the randomized population. No pediatric results were collected."
+      ],
+      [
+        "Safety",
+        "Dry mouth occurred in 5.0% versus 2.0%; discontinuation due to adverse events was 1.0% in both arms."
+      ],
+      [
+        "Interpretation and limits",
+        "The results describe this synthetic 6-week adult study only. Long-term effects, pregnancy outcomes, approved dosing and outcomes in children are not established by this document. No treatment or prescribing recommendation is made."
+      ]
+    ],
+    "table": [
+      [
+        "Outcome",
+        "NBX-505",
+        "Placebo"
+      ],
+      [
+        "Total nasal symptom score change",
+        "-4.8 points",
+        "-2.3 points"
+      ],
+      [
+        "Participants",
+        "100",
+        "100"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-023",
+    "folder": "manual_upload",
+    "file": "MDA-TO-023_air_pollen_followup.pdf",
+    "title": "AIR-POLLEN Follow-up: NBX-505 at Week 18",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic open-label extension"
+      ],
+      [
+        "Parent study",
+        "AIR-POLLEN"
+      ],
+      [
+        "Investigational product",
+        "NBX-505 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-10-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This fictional extension enrolled 82 selected completers of the AIR-POLLEN study. All extension participants received NBX-505; there was no concurrent placebo arm. Data and participants are invented."
+      ],
+      [
+        "Follow-up result",
+        "At week 18, the reported total nasal symptom score result was -4.0 points. Changes refer to the original baseline; response proportions refer to the follow-up visit. This result belongs to the selected extension cohort, not the original randomized population."
+      ],
+      [
+        "Safety follow-up",
+        "Four participants discontinued because of adverse events and two were lost to follow-up. No new safety category was identified in this small fictional cohort; that observation does not establish long-term safety."
+      ],
+      [
+        "Comparison limits",
+        "The parent trial and extension differ in follow-up duration and participant selection. The extension cannot support a new placebo-adjusted treatment difference. Use the separate AIR-POLLEN randomized report for the original comparator results."
+      ],
+      [
+        "Missing information",
+        "This report provides no pediatric dosing, approval status, pregnancy data or individualized treatment instructions. All findings are demonstration data, not clinical guidance."
+      ]
+    ],
+    "table": [
+      [
+        "Follow-up measure",
+        "Result"
+      ],
+      [
+        "Week",
+        "18"
+      ],
+      [
+        "Selected participants",
+        "82"
+      ],
+      [
+        "total nasal symptom score",
+        "-4.0 points"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-CT-018",
+    "folder": "seed",
+    "file": "MDA-CT-018_sleep_harbor_nbx-606.pdf",
+    "title": "SLEEP-HARBOR: NBX-606 in Adults with Chronic Insomnia",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic randomized trial summary"
+      ],
+      [
+        "Study identifier",
+        "SLEEP-HARBOR"
+      ],
+      [
+        "Investigational product",
+        "NBX-606 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-06-15"
+      ]
+    ],
+    "sections": [
+      [
+        "Purpose",
+        "This fictional study evaluated NBX-606 for chronic insomnia. All participants, sites, outcomes and numbers are invented demonstration data. The report is intended for testing retrieval and citations, not clinical use."
+      ],
+      [
+        "Cohort and methods",
+        "220 adults aged 18 to 75 were randomized equally to NBX-606 or placebo. Treatment lasted 8 weeks. The primary endpoint was sleep-onset latency change from baseline, except response proportions which were measured at the endpoint visit. Outcome assessors were blinded."
+      ],
+      [
+        "Primary result",
+        "At week 8, sleep-onset latency change was -21 minutes with NBX-606 and -9 minutes with placebo. These values are the prespecified primary analysis of the randomized population. No pediatric results were collected."
+      ],
+      [
+        "Safety",
+        "Morning somnolence occurred in 10.0% versus 3.6%; discontinuation due to adverse events was 3.6% versus 1.8%."
+      ],
+      [
+        "Interpretation and limits",
+        "The results describe this synthetic 8-week adult study only. Long-term effects, pregnancy outcomes, approved dosing and outcomes in children are not established by this document. No treatment or prescribing recommendation is made."
+      ]
+    ],
+    "table": [
+      [
+        "Outcome",
+        "NBX-606",
+        "Placebo"
+      ],
+      [
+        "Sleep-onset latency change",
+        "-21 minutes",
+        "-9 minutes"
+      ],
+      [
+        "Participants",
+        "110",
+        "110"
+      ]
+    ]
+  },
+  {
+    "id": "MDA-TO-024",
+    "folder": "manual_upload",
+    "file": "MDA-TO-024_sleep_harbor_followup.pdf",
+    "title": "SLEEP-HARBOR Follow-up: NBX-606 at Week 24",
+    "meta": [
+      [
+        "Document type",
+        "Synthetic open-label extension"
+      ],
+      [
+        "Parent study",
+        "SLEEP-HARBOR"
+      ],
+      [
+        "Investigational product",
+        "NBX-606 (fictional)"
+      ],
+      [
+        "Report date",
+        "2026-10-20"
+      ]
+    ],
+    "sections": [
+      [
+        "Scope",
+        "This fictional extension enrolled 88 selected completers of the SLEEP-HARBOR study. All extension participants received NBX-606; there was no concurrent placebo arm. Data and participants are invented."
+      ],
+      [
+        "Follow-up result",
+        "At week 24, the reported sleep-onset latency result was -18 minutes. Changes refer to the original baseline; response proportions refer to the follow-up visit. This result belongs to the selected extension cohort, not the original randomized population."
+      ],
+      [
+        "Safety follow-up",
+        "Four participants discontinued because of adverse events and two were lost to follow-up. No new safety category was identified in this small fictional cohort; that observation does not establish long-term safety."
+      ],
+      [
+        "Comparison limits",
+        "The parent trial and extension differ in follow-up duration and participant selection. The extension cannot support a new placebo-adjusted treatment difference. Use the separate SLEEP-HARBOR randomized report for the original comparator results."
+      ],
+      [
+        "Missing information",
+        "This report provides no pediatric dosing, approval status, pregnancy data or individualized treatment instructions. All findings are demonstration data, not clinical guidance."
+      ]
+    ],
+    "table": [
+      [
+        "Follow-up measure",
+        "Result"
+      ],
+      [
+        "Week",
+        "24"
+      ],
+      [
+        "Selected participants",
+        "88"
+      ],
+      [
+        "sleep-onset latency",
+        "-18 minutes"
+      ]
+    ]
+  }
+]

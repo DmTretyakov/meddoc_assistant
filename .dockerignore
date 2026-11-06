@@ -1,0 +1,10 @@
+.env
+.venv
+data
+logs
+__pycache__
+**/__pycache__
+.git
+.ruff_cache
+outputs
+work

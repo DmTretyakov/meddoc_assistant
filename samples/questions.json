@@ -1,0 +1,241 @@
+{
+  "description": "Example evaluation questions for the synthetic Medical Document Assistant dataset. All documents and facts are fictional. Source IDs refer to documents in samples/seed/ unless noted otherwise.",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "simple_factual",
+      "question": "What was the change in systolic blood pressure with Cardivex compared with placebo in the CARDIO-ALPHA trial?",
+      "expected_facts": [
+        "Systolic blood pressure decreased by 14.2 mmHg with Cardivex",
+        "Systolic blood pressure decreased by 6.1 mmHg with placebo",
+        "Treatment difference -8.1 mmHg (95% CI -9.6 to -6.6)"
+      ],
+      "source_documents": [
+        "MDA-CT-001"
+      ]
+    },
+    {
+      "id": "Q2",
+      "type": "simple_factual",
+      "question": "What was the median progression-free survival in the ONCO-DELTA trial of Onkatinib?",
+      "expected_facts": [
+        "Median progression-free survival was 9.6 months"
+      ],
+      "source_documents": [
+        "MDA-CT-008"
+      ]
+    },
+    {
+      "id": "Q3",
+      "type": "multi_fact",
+      "question": "What were the most common adverse events with Neurolix, and how often did patients discontinue because of adverse events?",
+      "expected_facts": [
+        "Nausea 11.0% vs 4.7% placebo",
+        "Dizziness 6.2% vs 3.1% placebo",
+        "Constipation 5.4% vs 1.8% placebo",
+        "Discontinuation due to adverse events 4.6% vs 2.0% placebo"
+      ],
+      "source_documents": [
+        "MDA-AE-005"
+      ]
+    },
+    {
+      "id": "Q4",
+      "type": "cross_document_comparison",
+      "question": "How does the incidence of hyperkalemia with Cardivex in the CARDIO-ALPHA trial compare with the post-marketing surveillance data, and which patients were most affected?",
+      "expected_facts": [
+        "Hyperkalemia 1.8% in CARDIO-ALPHA (vs 0.5% placebo)",
+        "Hyperkalemia 2.1% in post-marketing registry",
+        "Most cases in patients with eGFR below 45 mL/min/1.73 m2 or on potassium-sparing diuretics",
+        "Laboratory substudy: all patients with potassium above 5.5 mmol/L had baseline eGFR below 60"
+      ],
+      "source_documents": [
+        "MDA-CT-001",
+        "MDA-DS-002",
+        "MDA-LAB-006"
+      ]
+    },
+    {
+      "id": "Q5",
+      "type": "cross_document_comparison",
+      "question": "Compare the hepatic safety of Onkatinib and Neurolix.",
+      "expected_facts": [
+        "Grade 3 or higher ALT elevation 4.2% with Onkatinib",
+        "Grade 3 or higher ALT elevation 0.3% with Neurolix",
+        "One potential Hy's law case with Onkatinib, none with Neurolix",
+        "Liver function tests every 2 weeks for the first 3 months recommended for Onkatinib only"
+      ],
+      "source_documents": [
+        "MDA-AE-009",
+        "MDA-CT-008",
+        "MDA-AE-005"
+      ]
+    },
+    {
+      "id": "Q6",
+      "type": "unanswerable",
+      "question": "What is the approved pediatric dose of Pulmavir for children under 12 years?",
+      "expected_facts": [],
+      "expected_behavior": "The assistant should state that the documents do not contain this information. RESP-GAMMA enrolled only adults aged 50 years or older.",
+      "source_documents": []
+    },
+    {
+      "id": "Q7",
+      "type": "simple_factual",
+      "question": "What was the hemoglobin change with NBX-101 versus placebo in IRON-ORBIT?",
+      "expected_facts": [
+        "+1.8 g/dL",
+        "+0.7 g/dL"
+      ],
+      "source_documents": [
+        "MDA-CT-013"
+      ]
+    },
+    {
+      "id": "Q8",
+      "type": "simple_factual",
+      "question": "What was the womac pain score change with NBX-202 versus placebo in JOINT-LANTERN?",
+      "expected_facts": [
+        "-18.4 points",
+        "-10.1 points"
+      ],
+      "source_documents": [
+        "MDA-CT-014"
+      ]
+    },
+    {
+      "id": "Q9",
+      "type": "simple_factual",
+      "question": "What was the pasi 75 response with NBX-303 versus placebo in SKIN-PRISM?",
+      "expected_facts": [
+        "64%",
+        "22%"
+      ],
+      "source_documents": [
+        "MDA-CT-015"
+      ]
+    },
+    {
+      "id": "Q10",
+      "type": "simple_factual",
+      "question": "What was the monthly migraine-day change with NBX-404 versus placebo in HEADWAY-MIGRAINE?",
+      "expected_facts": [
+        "-3.6 days",
+        "-1.4 days"
+      ],
+      "source_documents": [
+        "MDA-CT-016"
+      ]
+    },
+    {
+      "id": "Q11",
+      "type": "simple_factual",
+      "question": "What was the total nasal symptom score change with NBX-505 versus placebo in AIR-POLLEN?",
+      "expected_facts": [
+        "-4.8 points",
+        "-2.3 points"
+      ],
+      "source_documents": [
+        "MDA-CT-017"
+      ]
+    },
+    {
+      "id": "Q12",
+      "type": "simple_factual",
+      "question": "What was the sleep-onset latency change with NBX-606 versus placebo in SLEEP-HARBOR?",
+      "expected_facts": [
+        "-21 minutes",
+        "-9 minutes"
+      ],
+      "source_documents": [
+        "MDA-CT-018"
+      ]
+    }
+  ],
+  "upload_documents": {
+    "description": "Files in samples/manual_upload/ are never automatically ingested; upload them through the UI or API.",
+    "documents": [
+      "MDA-CT-011",
+      "MDA-LAB-012",
+      "MDA-TO-019",
+      "MDA-TO-020",
+      "MDA-TO-021",
+      "MDA-TO-022",
+      "MDA-TO-023",
+      "MDA-TO-024"
+    ],
+    "example_question_after_upload": {
+      "question": "What HbA1c reduction did Glucoren 15 mg achieve at 52 weeks, and how does it compare with the Phase II result?",
+      "expected_facts": [
+        "HbA1c -1.1% at week 52 (MDA-CT-011)",
+        "HbA1c -0.9% at week 24 with 15 mg in GLUCO-BETA (MDA-CT-003)"
+      ],
+      "source_documents": [
+        "MDA-CT-011",
+        "MDA-CT-003"
+      ]
+    },
+    "additional_questions": [
+      {
+        "question": "What was the hemoglobin result at week 48 in the IRON-ORBIT follow-up, and was there a placebo arm?",
+        "expected_facts": [
+          "+1.5 g/dL",
+          "No concurrent placebo arm"
+        ],
+        "source_documents": [
+          "MDA-TO-019"
+        ]
+      },
+      {
+        "question": "What was the WOMAC pain score result at week 40 in the JOINT-LANTERN follow-up, and was there a placebo arm?",
+        "expected_facts": [
+          "-16.0 points",
+          "No concurrent placebo arm"
+        ],
+        "source_documents": [
+          "MDA-TO-020"
+        ]
+      },
+      {
+        "question": "What was the PASI 75 response result at week 36 in the SKIN-PRISM follow-up, and was there a placebo arm?",
+        "expected_facts": [
+          "58%",
+          "No concurrent placebo arm"
+        ],
+        "source_documents": [
+          "MDA-TO-021"
+        ]
+      },
+      {
+        "question": "What was the monthly migraine days result at week 36 in the HEADWAY-MIGRAINE follow-up, and was there a placebo arm?",
+        "expected_facts": [
+          "-3.1 days",
+          "No concurrent placebo arm"
+        ],
+        "source_documents": [
+          "MDA-TO-022"
+        ]
+      },
+      {
+        "question": "What was the total nasal symptom score result at week 18 in the AIR-POLLEN follow-up, and was there a placebo arm?",
+        "expected_facts": [
+          "-4.0 points",
+          "No concurrent placebo arm"
+        ],
+        "source_documents": [
+          "MDA-TO-023"
+        ]
+      },
+      {
+        "question": "What was the sleep-onset latency result at week 24 in the SLEEP-HARBOR follow-up, and was there a placebo arm?",
+        "expected_facts": [
+          "-18 minutes",
+          "No concurrent placebo arm"
+        ],
+        "source_documents": [
+          "MDA-TO-024"
+        ]
+      }
+    ]
+  }
+}
